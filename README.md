@@ -1,7 +1,7 @@
 # Hi I'm Basit👋
 
-## Frontend Developer
-
+## Software Engineer
+### Fullstack Developer
 
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on Open Source and Freelance Projects
